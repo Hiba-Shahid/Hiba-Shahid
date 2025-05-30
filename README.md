@@ -59,19 +59,6 @@ console.log("Welcome to my digital universe! 🌌");
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hibashahid&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
-## 🎯 Current Learning Journey
-
-```mermaid
-graph TD
-    A[Start] --> B{Learning Path}
-    B -- MERN Stack --> C[MERN Projects]
-    B -- AI/ML --> D[AI Projects]
-    C --> E[Deployment]
-    D --> E
-    E --> F[Continuous Improvement]
-```
 
 ---
 
