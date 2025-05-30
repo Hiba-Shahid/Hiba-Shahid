@@ -78,13 +78,10 @@ console.log("Welcome to my digital universe! 🌌");
 ### 🎵 Coding Playlist
 *Currently vibing to:* **Lo-fi Hip Hop Radio** 🎧
 
-### ☕ Coffee Counter
-☕☕☕☕☕☕☕☕☕☕ (10 cups today... and counting!)
 
 ### 🎮 When I'm Not Coding
 - 🎯 Learning new AI algorithms
 - 📚 Reading tech blogs
-- 🎮 Gaming (strategy games are my favorite!)
 - 🌱 Contributing to open source
 
 ---
@@ -187,12 +184,6 @@ console.log("Welcome to my digital universe! 🌌");
 ## 🌟 Support My Journey
 
 <div align="center">
-If you find my work helpful or inspiring, consider:
-
-⭐ **Starring my repositories**  
-🍴 **Forking interesting projects**  
-🐛 **Reporting bugs or suggesting features**  
-☕ **Buying me a coffee** (virtual hugs work too!)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b></em>
 </div>
