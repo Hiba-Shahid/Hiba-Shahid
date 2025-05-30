@@ -15,7 +15,7 @@
 ### 🌟 About Me
 
 ```javascript
-const hibe = {
+const hiba = {
     name: "Hiba Shahid",
     role: "Full Stack Developer & AI Student",
     location: "🌍 Earth",
