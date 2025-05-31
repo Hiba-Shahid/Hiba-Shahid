@@ -73,18 +73,6 @@ console.log("Welcome to my digital universe! 🌌");
 
 ---
 
-## 🌈 Fun Zone
-
-### 🎵 Coding Playlist
-*Currently vibing to:* **Lo-fi Hip Hop Radio** 🎧
-
-
-### 🎮 When I'm Not Coding
-- 🎯 Learning new AI algorithms
-- 📚 Reading tech blogs
-- 🌱 Contributing to open source
-
----
 
 ## 📈 Skill Progress Bars
 
@@ -162,25 +150,6 @@ console.log("Welcome to my digital universe! 🌌");
 
 ---
 
-## 🎭 Random Developer Humor
-
-### 😄 Daily Dose of Code Humor
-
-> **Why do programmers prefer dark mode?**
->
-> Because light attracts bugs! 🐛💡
-
----
-
-### 🎯 My Debugging Process:
-1. 🤔 "This should work..."
-2. 😕 "Why doesn't this work?"
-3. 😤 "This code is stupid!"
-4. 😅 "Oh wait, I'm stupid..."
-5. 🎉 "It works!"
-
----
-
 ## 🌟 Support My Journey
 
 <div align="center">
@@ -194,10 +163,4 @@ console.log("Welcome to my digital universe! 🌌");
 
 ---
 
-<div align="center">
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-**Made with ❤️ by Hiba Shahid**
-
-*Last updated: May 30, 2025*
-</div>
