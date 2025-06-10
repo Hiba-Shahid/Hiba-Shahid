@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HIBE%20SHAHID&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HIBA%20SHAHID&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning;💻+MERN+Stack+Expert;🌟+Innovation+%26+Creativity;⚡+Building+The+Future" alt="Typing Animation" />
@@ -91,9 +91,9 @@ while(learning) {
 
 <!-- GitHub Contribution Snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibeshahid/hibashahid/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hibeshahid/hibashahid/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hibeshahid/hibashahid/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hibashahid/hibashahid/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hibashahid/hibashahid/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hibashahid/hibashahid/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
