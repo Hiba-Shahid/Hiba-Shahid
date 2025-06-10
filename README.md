@@ -24,7 +24,7 @@
 
 <div align="left">
 
-### 👋 Hey there! I'm Hibe Shahid
+### 👋 Hey there! I'm Hiba Shahid
 
 🔥 **Passionate MERN Stack Developer** turning ideas into reality  
 🤖 **AI Enthusiast** exploring the frontiers of machine learning  
@@ -32,7 +32,7 @@
 💡 **Problem Solver** who loves clean code and elegant solutions  
 
 ```javascript
-const hibe = {
+const hiba = {
     location: "Pakistan 🇵🇰",
     education: "Computer Science Student",
     currentFocus: "AI Integration with Web Development",
