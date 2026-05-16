@@ -1,133 +1,145 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HIBA%20SHAHID&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=MERN%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=HIBA%20SHAHID&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Specialist&descAlignY=51&descAlign=50"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🚀+Full+Stack+Developer;🤖+AI+%26+Machine+Learning;💻+MERN+Stack+Expert;🌟+Innovation+%26+Creativity;⚡+Building+The+Future" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=200&lines=🚀+Full-Stack+Developer;🤖+AI+Specialist+%26+LLM+Engineer;📱+React+Native+%7C+Next.js+%7C+Django;🧠+RAG+Pipelines+%7C+Claude+%7C+OpenAI;⚡+Building+Real+Products" alt="Typing Animation" />
 
 <!-- Profile Views and Social Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hibeshahid&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hibeshahid?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/hibeshahid?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Hiba-Shahid&label=Profile%20Views&color=blueviolet&style=for-the-badge&logo=eye" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Hiba-Shahid?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Hiba-Shahid?label=Stars&style=for-the-badge&color=yellow&logo=github" alt="GitHub Stars" />
 </p>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <div align="left">
 
-### 👋 Hey there! I'm Hiba Shahid
+### 👋 Hey, I'm Hiba Shahid
 
-🔥 **Passionate MERN Stack Developer** turning ideas into reality  
-🤖 **AI Enthusiast** exploring the frontiers of machine learning  
-🚀 **Innovation Seeker** always learning and building cool stuff  
-💡 **Problem Solver** who loves clean code and elegant solutions  
+🔥 **Full-Stack Developer** shipping real products with React, Next.js & Django  
+🤖 **AI Specialist** building RAG pipelines, LLM integrations & automation workflows  
+📱 **Mobile Developer** crafting cross-platform apps with React Native & Expo  
+🧠 **ML Engineer** working with TensorFlow, PyTorch, YOLO & NLP  
+💡 **Problem Solver** who writes clean, reviewable code — not just AI-generated output  
 
 ```javascript
 const hiba = {
-    location: "Pakistan 🇵🇰",
-    education: "Artificial Intelligence Student",
-    currentFocus: "AI Integration with Web Development",
-    lifePhilosophy: "Code, Learn, Build, Repeat 🔄"
+    location: "Rahim Yar Khan, Pakistan 🇵🇰",
+    education: "B.S. Artificial Intelligence — GPA 3.5/4.0",
+    stack: ["Next.js", "React", "Django", "React Native", "TypeScript"],
+    AI: ["Claude API", "OpenAI API", "RAG Pipelines", "LangChain", "Pinecone"],
+    currentFocus: "Full-Stack + AI-powered product development",
+    philosophy: "Understand the code. Ship reliable features. 🚀"
 };
-
-// Always ready for new challenges!
-while(learning) {
-    keepCoding();
-    buildAmazingThings();
-}
 ```
 
 </div>
 
 <br clear="both"/>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### 🌐 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,sass,nextjs,vite&theme=dark" />
+### 🌐 Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,bootstrap,figma&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 
-### ⚙️ Backend Development  
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,postgres,mongodb,mysql&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white" />
 
-### 🤖 AI & Data Science
+### 🤖 AI / ML & LLMs
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark" />
 <br/>
+<img src="https://img.shields.io/badge/Anthropic_Claude-6B4EFF?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 
-### 🛠️ Tools & Technologies
-<img src="https://skillicons.dev/icons?i=git,github,aws,vercel,figma,vscode,postman&theme=dark" />
+### ⚙️ Automation & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,azure,vercel,postman,vscode&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" />
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Journey
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img align="right" alt="AI GIF" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
-### 🚀 What I'm Up To
-
-- 🔬 **Researching:** Advanced AI integration techniques
-- 🏗️ **Building:** Next-gen web applications with AI
-- 📚 **Learning:** Deep Learning & Neural Networks
-- 🌐 **Exploring:** Web3 and Blockchain technologies
-- 🤝 **Contributing:** Open source AI projects
-- 💡 **Innovating:** Creative solutions for real problems
-
+| Project | Stack | Description |
+|--------|-------|-------------|
+| 🍎 **AI Food & Calorie Detector** | React Native, TensorFlow, Python | Final Year Project — CV food detection + AI diet plan generator |
+| 🛒 **Paradise Competition** | Next.js, Django, PostgreSQL | Full-stack e-commerce platform with auth, orders & real-time APIs |
+| 🤖 **Portfolio RAG Chatbot** | Claude API, React, Pinecone | AI assistant answering recruiter questions from a knowledge base |
+| 🌿 **Leaf & Bloom Store** | React, TailwindCSS, n8n | E-commerce store with RAG agent integration |
+| 🎮 **Gaming Site** | Next.js, TypeScript | Live API-driven gaming UI with dynamic content |
+| 🔍 **Object Detection (YOLO)** | Python, YOLOv8, OpenCV | Real-time multi-class detection on webcam & video |
+| 🎬 **Movie Recommendation System** | Scikit-learn, NLP, Pandas | Collaborative + content-based filtering with TF-IDF |
+| 📱 **Teetyme Golf App** | React Native, Expo | Tee time booking with real-time availability, iOS & Android |
+| 🔄 **RAG Agent Workflow** | n8n, Pinecone, Mistral AI | End-to-end RAG pipeline with semantic search & LLM grounding |
+| 🔑 **Password Manager** | React, REST API | Seed-based auth with encrypted credential storage |
 
 </div>
 
-<br clear="both"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 📊 GitHub Stats
 
-<!-- Animated Divider -->
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Hiba-Shahid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hiba-Shahid&theme=tokyonight&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hiba-Shahid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> <em><b>Open to full-time roles, freelance projects, and collaborations.</b> Feel free to reach out! 😊</em>
 
-### 📫 Reach Out
+<br/><br/>
 
 <p align="center">
-<a href="mailto:hibeshahid@gmail.com">
+<a href="mailto:hibashahid678@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/hibeshahid">
+<a href="https://www.linkedin.com/in/hiba-shahid-627366312/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/hibeshahid">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://instagram.com/hibeshahid">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://hibeshahid.dev">
+<a href="https://my-portfolio-sbdq.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://discord.gg/hibeshahid">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+<a href="https://github.com/Hiba-Shahid">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </p>
 
@@ -135,25 +147,22 @@ while(learning) {
 
 <table align="center">
 <tr>
-<td align="center">💻<br><b>Freelance Projects</b></td>
-<td align="center">🤝<br><b>Collaborations</b></td>
-<td align="center">🎯<br><b>Full-time Roles</b></td>
+<td align="center">💻<br><b>Full-time Roles</b></td>
+<td align="center">🤝<br><b>Freelance Projects</b></td>
+<td align="center">🤖<br><b>AI Collaborations</b></td>
 </tr>
 </table>
 
 </div>
 
-<!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-
-### 💫 "Building tomorrow's technology today"
+### 💫 "Understand the code. Ship reliable things. Keep building."
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 
-<!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 ---
@@ -164,28 +173,8 @@ while(learning) {
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
 </p>
 
-
 <div align="center">
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 </div>
 
 </div>
-```
-
-
-
-
-<!--
-**Hiba-Shahid/Hiba-Shahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
